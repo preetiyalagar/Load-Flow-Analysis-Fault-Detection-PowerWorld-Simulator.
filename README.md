@@ -34,8 +34,6 @@ The project uses **PowerWorld Simulator** to perform load flow analysis and faul
 
 ---
 
-## 📸 Simulation Results
-
 ## 📊 Simulation Results
 
 ### 🔹 One-Line Diagram
