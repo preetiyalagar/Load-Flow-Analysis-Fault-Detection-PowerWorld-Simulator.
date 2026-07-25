@@ -36,14 +36,24 @@ The project uses **PowerWorld Simulator** to perform load flow analysis and faul
 
 ## 📸 Simulation Results
 
-### One-Line Diagram
-(Add Screenshot)
+## 📊 Simulation Results
 
-### Load Flow Result
-(Add Screenshot)
+### 🔹 One-Line Diagram
+![One Line Diagram](one-line.png)
 
-### Fault Analysis
-(Add Screenshot)
+This diagram represents the IEEE 6-bus power system including generators, loads, and transmission lines.
+
+---
+
+### 🔹 Load Flow Result
+![Load Flow Result](load-flow.png)
+
+The load flow analysis shows active and reactive power distribution along with power flow direction in the network.
+
+---
+
+### 🔹 Fault Analysis
+*(Screenshot will be added)*
 
 ---
 
